@@ -1,0 +1,77 @@
+body {
+    margin-left: 50vh;
+
+}
+
+.avatar {
+    margin: 15px 280px;
+    box-shadow: 4px 4px 4px 1px rgba(0, 0, 0, 0.3);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border-radius: 15px;
+    max-width: 350px;
+    height: 550px;
+    padding-top: 1px;
+    padding-bottom: 30px;
+    background: linear-gradient(225deg, rgba(34,193,195,1) 0%, rgba(202,224,83,0.4009978991596639) 50%, rgba(132,45,253,0.76234243697479) 100%);
+}
+
+.card {
+    max-width: 450px;
+    height: 520px;
+    border-radius: 15px;
+    border: dotted 8px rgba(255, 255, 255, 0.582);
+    text-align: center;
+    margin: 20px 20px;
+}
+
+#image {
+    box-shadow: 2px 2px 2px 0.5px rgba(185, 107, 248, 0.5);
+    border-radius: 30%;
+    max-width: 25vh;
+    margin: 3em 0em 0 00em;
+}
+
+#name {
+    margin: 15px 0vh 0 00vh;
+    color: rgb(74, 185, 84);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    font-size: 35px;
+}
+#status{
+font-style: italic;
+font-weight: bold;
+margin-bottom: 0px;
+margin-top: 50px;
+font-size: 35px;
+font-family: 'Titan One';
+font-style: normal;
+font-weight: 200;
+font-display: swap;
+color: rgb(76, 136, 189);
+}
+#gender{
+font-style: italic;
+font-weight: bold;
+margin-bottom: 0px;
+margin-top: 0px;
+font-size: 35px;
+font-family: 'Titan One';
+font-style: normal;
+font-weight: 200;
+font-display: swap;
+color: rgb(76, 136, 189);  
+}
+#species{
+font-style: italic;
+font-weight: bold;
+margin-bottom: 0px;
+margin-top: 0px;
+font-size: 35px;
+font-family: 'Titan One';
+font-style: normal;
+font-weight: 200;
+font-display: swap;
+color: rgb(76, 136, 189);
+}
